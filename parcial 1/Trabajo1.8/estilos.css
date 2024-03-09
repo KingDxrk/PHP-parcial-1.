@@ -1,0 +1,24 @@
+html
+{
+   background-color: rgb(94, 224, 214);
+}
+.Menu {
+    display: flex;
+    gap: 2rem;
+    font-size: 1.3rem;
+    color:rgb(9, 70, 9);
+    font-weight: 600;
+    text-transform: uppercase;
+    position: relative;
+}
+.Menu-problema1
+{
+    display: flex;
+    gap: 2rem;
+    font-size: 1.3rem;
+    color:rgb(9, 70, 9);
+    font-weight: 600;
+    text-transform: uppercase;
+    position: relative;
+}
+
